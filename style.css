@@ -47,7 +47,13 @@ h1 {
     margin-bottom: 0.5rem;
 }
 
+.receita ul {
+    columns: 2;
+    column-gap: 2rem;
+  }
+
 .receita img {
+    max-width: 100%;
     width: 100%;
     height: auto;
     object-fit: cover;
@@ -58,6 +64,9 @@ h1 {
     .receitas {
         grid-template-columns: 1fr;
     }
+    .receita ul {
+        columns: 1;
+      }
 }
 
 /* Estilos específicos para impressão */
@@ -93,5 +102,13 @@ h1 {
         page-break-inside: avoid;
         box-shadow: none;
     }
+
+    /* Reduz a largura da imagem para que ela não ocupe mais que metade da página */
+    .receita img {
+        width: 20%;
+        object-fit: contain;
+        margin-bottom: 2rem;
+      }
 }
+
 

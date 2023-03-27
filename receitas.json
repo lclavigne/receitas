@@ -1,20 +1,50 @@
 [
-  {
-     "nome":"Receita 1",
-     "ingredientes":[
-        "ingrediente1",
-        "ingrediente2"
-     ],
-     "preparo":"Passos para o preparo...",
-     "imagem":"./assets/prato-1.jpg"
-  },
-  {
-     "nome":"Receita 2",
-     "ingredientes":[
-        "ingrediente1",
-        "ingrediente2"
-     ],
-     "preparo":"Passos para o preparo...",
-     "imagem":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1453&q=80"
-  }
+   {
+      "nome":"Lasanha à bolonhesa",
+      "ingredientes":[
+         "500g de massa para lasanha",
+         "500g de carne moída",
+         "1 cebola picada",
+         "3 dentes de alho picados",
+         "2 latas de molho de tomate",
+         "1 colher de sopa de extrato de tomate",
+         "1 xícara de chá de água",
+         "1 colher de chá de sal",
+         "1 pitada de pimenta-do-reino",
+         "2 xícaras de chá de queijo mussarela ralado",
+         "1 xícara de chá de queijo parmesão ralado"
+      ],
+      "preparo":"1. Em uma panela, refogue a cebola e o alho em um pouco de óleo até dourar.\n2. Adicione a carne moída e frite até que ela esteja bem cozida.\n3. Adicione o molho de tomate, o extrato de tomate, a água, o sal e a pimenta-do-reino. Misture bem e deixe cozinhar por 10 minutos.\n4. Cozinhe a massa da lasanha de acordo com as instruções da embalagem.\n5. Em um refratário, monte a lasanha alternando camadas de massa, molho e queijo mussarela. Repita até acabar os ingredientes, terminando com uma camada de queijo parmesão.\n6. Leve ao forno preaquecido a 180°C por cerca de 30 minutos ou até que a lasanha esteja dourada e borbulhando.\n7. Sirva quente.",
+      "imagem":"./assets/lasanha.jpg"
+   },
+   
+      {
+         "nome":"Torta de frango",
+         "ingredientes":[
+            "Massa:",
+            "2 xícaras de chá de farinha de trigo",
+            "1 colher de chá de sal",
+            "1/2 xícara de chá de manteiga",
+            "1/4 xícara de chá de água gelada",
+            "Recheio:",
+            "1 peito de frango cozido e desfiado",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "1 tomate picado",
+            "1/2 pimentão verde picado",
+            "1/2 pimentão vermelho picado",
+            "1/2 lata de milho verde",
+            "1/2 lata de ervilha",
+            "1/2 xícara de chá de água",
+            "2 colheres de sopa de óleo",
+            "1/2 xícara de chá de requeijão cremoso",
+            "1/2 xícara de chá de queijo parmesão ralado",
+            "1 colher de sopa de amido de milho",
+            "1 xícara de chá de leite",
+            "Sal e pimenta-do-reino a gosto"
+         ],
+         "preparo":"1. Para a massa, misture a farinha de trigo e o sal. Adicione a manteiga e misture até obter uma farofa grossa. Adicione a água gelada aos poucos, misturando até formar uma massa homogênea. Cubra com filme plástico e leve à geladeira por 30 minutos.\n2. Para o recheio, aqueça o óleo em uma panela e refogue a cebola e o alho até dourar. Adicione o tomate, os pimentões, o milho e a ervilha. Refogue por alguns minutos.\n3. Dissolva o amido de milho no leite e adicione ao refogado. Mexa bem e cozinhe até engrossar. Adicione o frango desfiado, o requeijão e o queijo parmesão. Misture bem e tempere com sal e pimenta-do-reino a gosto.\n4. Abra a massa com um rolo e forre o fundo e as laterais de uma forma de torta. Despeje o recheio sobre a massa.\n5. Abra o restante da massa e corte tiras para decorar a torta. Coloque as tiras sobre o recheio, formando uma grade.\n6. Leve ao forno preaquecido a 180°C por cerca de 40 minutos ou até que a torta esteja dourada. Sirva quente ou fria.",
+         "imagem":"./assets/torta-frango.jpg"
+      }
+ 
 ]

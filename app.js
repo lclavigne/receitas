@@ -11,43 +11,10 @@ fetch('receitas.json')
     }
 
     const receitasContainer = document.querySelector('.receitas')
+    let receitasHTML = ''
 
     data.forEach(receita => {
-      const receitaDiv = document.createElement('div')
-      receitaDiv.className = 'receita'
-
-      const titulo = document.createElement('h2')
-      titulo.textContent = receita.titulo
-      receitaDiv.appendChild(titulo)
-
-      const ingredientes = document.createElement('ul')
-      receita.ingredientes.forEach(ingrediente => {
-        const li = document.createElement('li')
-        li.textContent = ingrediente
-        ingredientes.appendChild(li)
-      })
-      receitaDiv.appendChild(ingredientes)
-
-      const preparo = document.createElement('p')
-      preparo.textContent = receita.preparo
-      receitaDiv.appendChild(preparo)
-
-      receitasContainer.appendChild(receitaDiv)
-    })
-  })
-  .catch(error => {
-    console.error('Erro ao carregar as receitas:', error)
-  })
-
-document.getElementById('botao-impressao').addEventListener('click', () => {
-  window.print()
-})
-
-function exibirReceitas(data) {
-  let receitasHTML = ''
-
-  data.forEach(receita => {
-    receitasHTML += `
+      receitasHTML += `
                 <div class="receita">
                     <img src="${receita.imagem}" alt="${receita.nome}">
                     <h2>${receita.nome}</h2>
@@ -61,7 +28,13 @@ function exibirReceitas(data) {
                     <p>${receita.preparo}</p>
                 </div>
             `
+      document.querySelector('.receitas').innerHTML = receitasHTML
+    })
+  })
+  .catch(error => {
+    console.error('Erro ao carregar as receitas:', error)
   })
 
-  document.querySelector('.receitas').innerHTML = receitasHTML
-}
+document.getElementById('botao-impressao').addEventListener('click', () => {
+  window.print()
+})
