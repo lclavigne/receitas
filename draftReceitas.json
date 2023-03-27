@@ -1,110 +1,147 @@
 [
-    {
-      "titulo": "Aveia com frutas e nozes",
-      "ingredientes": [
+  {
+     "titulo":"Aveia com frutas e nozes",
+     "ingredientes":[
         "1/2 xícara de aveia em flocos",
         "1 xícara de leite (ou leite vegetal)",
         "1 colher de sopa de mel",
         "1/2 colher de chá de canela em pó",
         "1/4 xícara de frutas picadas (como maçã, banana e morangos)",
         "2 colheres de sopa de nozes picadas"
-      ],
-      "preparo": "1. Coloque a aveia em uma panela com o leite, o mel e a canela. Leve ao fogo médio e cozinhe por cerca de 5 minutos, mexendo ocasionalmente, até que a aveia esteja macia e o leite tenha sido absorvido.\n2. Transfira a aveia para uma tigela e adicione as frutas picadas e as nozes por cima.\n3. Sirva quente."
-    },
-    {
-      "titulo": "Panquecas de banana e aveia",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Smoothie verde com espinafre, abacaxi e gengibre",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Omelete de claras com legumes",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Iogurte grego com frutas e granola",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Crepioca com recheio de frango e cottage",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Pão integral com abacate e ovo",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Mingau de quinoa com frutas",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Muffin de ovo com legumes",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Smoothie de mirtilo, chia e amêndoas",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Vitamina de mamão com leite desnatado",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Torrada integral com ricota e tomate",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Ovos mexidos com tomate e cebola",
-      "ingredientes": [],
-      "preparo": ""
-    },
-    {
-      "titulo": "Mingau de aveia com banana e canela",
-      "ingredientes": [],
-      "preparo": ""
-    },{
-        "titulo": "Pão integral com queijo branco e peito de peru",
-        "ingredientes": [],
-        "preparo": ""
-        },
-        {
-        "titulo": "Iogurte natural com mel e aveia",
-        "ingredientes": [],
-        "preparo": ""
-        },
-        {
-        "titulo": "Creme de milho com leite desnatado e linhaça",
-        "ingredientes": [],
-        "preparo": ""
-        },
-        {
-        "titulo": "Pão de queijo fit com polvilho e cottage",
-        "ingredientes": [],
-        "preparo": ""
-        },
-        {
-        "titulo": "Smoothie de banana, aveia e mel",
-        "ingredientes": [],
-        "preparo": ""
-        },
-        {
-        "titulo": "Ovo poché com espinafre",
-        "ingredientes": [],
-        "preparo": ""
-        }
-        ]
+     ],
+     "preparo":"1. Coloque a aveia em uma panela com o leite, o mel e a canela. Leve ao fogo médio e cozinhe por cerca de 5 minutos, mexendo ocasionalmente, até que a aveia esteja macia e o leite tenha sido absorvido.\n2. Transfira a aveia para uma tigela e adicione as frutas picadas e as nozes por cima.\n3. Sirva quente."
+  },
+  {
+     "titulo":"Panquecas de banana e aveia",
+     "ingredientes":[
         
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Smoothie verde com espinafre, abacaxi e gengibre",
+     "ingredientes":[
         
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Omelete de claras com legumes",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Iogurte grego com frutas e granola",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Crepioca com recheio de frango e cottage",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Pão integral com abacate e ovo",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Mingau de quinoa com frutas",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Muffin de ovo com legumes",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Smoothie de mirtilo, chia e amêndoas",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Vitamina de mamão com leite desnatado",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Torrada integral com ricota e tomate",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Ovos mexidos com tomate e cebola",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Mingau de aveia com banana e canela",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Pão integral com queijo branco e peito de peru",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Iogurte natural com mel e aveia",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Creme de milho com leite desnatado e linhaça",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Pão de queijo fit com polvilho e cottage",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Smoothie de banana, aveia e mel",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  },
+  {
+     "titulo":"Ovo poché com espinafre",
+     "ingredientes":[
+        
+     ],
+     "preparo":""
+  }
+]
